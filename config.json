@@ -1,3 +1,3 @@
 {
-  "BASE_URL": "http://192.168.108.217/whitelist/api/"
+  "BASE_URL": "http://192.168.108.217:8090/whitelist/api/"
 }
